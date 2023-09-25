@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/sudheer-kumar-81a854234" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudheer-kumar-81a854234" height="30" width="40" />
+    <a href="https://linkedin.com/in/sudheer-prajapat-81a854234" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudheer-prajapat-81a854234" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/sudheerkumar8929" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudheerkumar8929" height="30" width="40" />
@@ -74,16 +74,4 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a> 
-</p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudheerkrp&show_icons=true&locale=en&layout=compact" alt="sudheerkrp" />
-</p>
-
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerkrp&show_icons=true&locale=en" alt="sudheerkrp" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerkrp&" alt="sudheerkrp" />
 </p>
