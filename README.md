@@ -7,22 +7,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/sudheer-prajapat-81a854234" target="blank">
+    <a href="https://linkedin.com/in/sudheer-prajapat-81a854234" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudheer-prajapat-81a854234" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/sudheerkumar8929" target="blank">
+    <a href="https://www.leetcode.com/sudheerkumar8929" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudheerkumar8929" height="30" width="40" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/sudheerkumar8929" target="blank">
+    <a href="https://auth.geeksforgeeks.org/user/sudheerkumar8929" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sudheerkumar8929" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/sudheerkumar8929" target="blank">
+    <a href="https://www.hackerrank.com/sudheerkumar8929" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudheerkumar8929" height="30" width="40" />
     </a>
     <a href="https://codeforces.com/profile/sudheerkp" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sudheerkp" height="30" width="40" />
     </a>
-    <a href="https://www.codechef.com/users/sudheerkp" target="blank">
+    <a href="https://www.codechef.com/users/sudheerkp" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudheerkp" height="30" width="40" />
     </a>
 </p>
