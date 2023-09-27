@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar Prajapat.</h1>
-<h3 align="center">A Web Developer, Competitive Programmer, Student at IIT (BHU) Varanasi.</h3>
+<h3 align="center">A Full Stack Developer, Problem Solver, Quick Learner, Final Year Student at IIT (BHU) Varanasi.</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=sudheerkrp&label=Profile%20views&color=0e75b6&style=flat" alt="sudheerkrp" /> 
